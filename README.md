@@ -2,8 +2,8 @@
 # Magang Bayucaraka 2024 - ROS2
 
 **Identitas Peserta**\
-Nama    : \
-NRP     : 
+Nama    : Gusti Gratia Delpiera\
+NRP     : 5026231097
 
 Pengumpulan tugas dilakukan dengan cara seperti berikut:
 
