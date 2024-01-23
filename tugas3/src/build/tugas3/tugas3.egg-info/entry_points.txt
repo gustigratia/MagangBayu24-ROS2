@@ -1,0 +1,3 @@
+[console_scripts]
+turtlelaunch = tugas3.publisher:main
+

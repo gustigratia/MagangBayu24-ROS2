@@ -1,0 +1,16 @@
+package.xml
+setup.cfg
+setup.py
+../build/tugas3/tugas3.egg-info/PKG-INFO
+../build/tugas3/tugas3.egg-info/SOURCES.txt
+../build/tugas3/tugas3.egg-info/dependency_links.txt
+../build/tugas3/tugas3.egg-info/entry_points.txt
+../build/tugas3/tugas3.egg-info/requires.txt
+../build/tugas3/tugas3.egg-info/top_level.txt
+../build/tugas3/tugas3.egg-info/zip-safe
+resource/tugas3
+test/test_copyright.py
+test/test_flake8.py
+test/test_pep257.py
+tugas3/__init__.py
+tugas3/publisher.py

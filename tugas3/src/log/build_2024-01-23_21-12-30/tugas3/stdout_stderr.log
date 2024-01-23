@@ -1,0 +1,35 @@
+running egg_info
+creating ../build/tugas3/tugas3.egg-info
+writing ../build/tugas3/tugas3.egg-info/PKG-INFO
+writing dependency_links to ../build/tugas3/tugas3.egg-info/dependency_links.txt
+writing entry points to ../build/tugas3/tugas3.egg-info/entry_points.txt
+writing requirements to ../build/tugas3/tugas3.egg-info/requires.txt
+writing top-level names to ../build/tugas3/tugas3.egg-info/top_level.txt
+writing manifest file '../build/tugas3/tugas3.egg-info/SOURCES.txt'
+reading manifest file '../build/tugas3/tugas3.egg-info/SOURCES.txt'
+writing manifest file '../build/tugas3/tugas3.egg-info/SOURCES.txt'
+running build
+running build_py
+creating /home/gusti/MagangBayu24-ROS2/tugas3/src/build/tugas3/build
+creating /home/gusti/MagangBayu24-ROS2/tugas3/src/build/tugas3/build/lib
+creating /home/gusti/MagangBayu24-ROS2/tugas3/src/build/tugas3/build/lib/tugas3
+copying tugas3/__init__.py -> /home/gusti/MagangBayu24-ROS2/tugas3/src/build/tugas3/build/lib/tugas3
+copying tugas3/publisher.py -> /home/gusti/MagangBayu24-ROS2/tugas3/src/build/tugas3/build/lib/tugas3
+running install
+running install_lib
+creating /home/gusti/MagangBayu24-ROS2/tugas3/src/install/tugas3/lib/python3.8/site-packages/tugas3
+copying /home/gusti/MagangBayu24-ROS2/tugas3/src/build/tugas3/build/lib/tugas3/__init__.py -> /home/gusti/MagangBayu24-ROS2/tugas3/src/install/tugas3/lib/python3.8/site-packages/tugas3
+copying /home/gusti/MagangBayu24-ROS2/tugas3/src/build/tugas3/build/lib/tugas3/publisher.py -> /home/gusti/MagangBayu24-ROS2/tugas3/src/install/tugas3/lib/python3.8/site-packages/tugas3
+byte-compiling /home/gusti/MagangBayu24-ROS2/tugas3/src/install/tugas3/lib/python3.8/site-packages/tugas3/__init__.py to __init__.cpython-38.pyc
+byte-compiling /home/gusti/MagangBayu24-ROS2/tugas3/src/install/tugas3/lib/python3.8/site-packages/tugas3/publisher.py to publisher.cpython-38.pyc
+running install_data
+creating /home/gusti/MagangBayu24-ROS2/tugas3/src/install/tugas3/share/ament_index
+creating /home/gusti/MagangBayu24-ROS2/tugas3/src/install/tugas3/share/ament_index/resource_index
+creating /home/gusti/MagangBayu24-ROS2/tugas3/src/install/tugas3/share/ament_index/resource_index/packages
+copying resource/tugas3 -> /home/gusti/MagangBayu24-ROS2/tugas3/src/install/tugas3/share/ament_index/resource_index/packages
+copying package.xml -> /home/gusti/MagangBayu24-ROS2/tugas3/src/install/tugas3/share/tugas3
+running install_egg_info
+Copying ../build/tugas3/tugas3.egg-info to /home/gusti/MagangBayu24-ROS2/tugas3/src/install/tugas3/lib/python3.8/site-packages/tugas3-0.0.0-py3.8.egg-info
+running install_scripts
+Installing turtlelaunch script to /home/gusti/MagangBayu24-ROS2/tugas3/src/install/tugas3/lib/tugas3
+writing list of installed files to '/home/gusti/MagangBayu24-ROS2/tugas3/src/build/tugas3/install.log'

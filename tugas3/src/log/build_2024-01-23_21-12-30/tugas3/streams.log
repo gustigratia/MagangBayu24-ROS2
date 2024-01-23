@@ -1,0 +1,37 @@
+[0.801s] Invoking command in '/home/gusti/MagangBayu24-ROS2/tugas3/src/tugas3': PYTHONPATH=/home/gusti/MagangBayu24-ROS2/tugas3/src/build/tugas3/prefix_override:/home/gusti/MagangBayu24-ROS2/tugas3/src/install/tugas3/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/tugas3 build --build-base /home/gusti/MagangBayu24-ROS2/tugas3/src/build/tugas3/build install --record /home/gusti/MagangBayu24-ROS2/tugas3/src/build/tugas3/install.log --install-scripts $base/lib/tugas3 --single-version-externally-managed
+[0.992s] running egg_info
+[0.993s] creating ../build/tugas3/tugas3.egg-info
+[0.993s] writing ../build/tugas3/tugas3.egg-info/PKG-INFO
+[0.993s] writing dependency_links to ../build/tugas3/tugas3.egg-info/dependency_links.txt
+[0.993s] writing entry points to ../build/tugas3/tugas3.egg-info/entry_points.txt
+[0.993s] writing requirements to ../build/tugas3/tugas3.egg-info/requires.txt
+[0.993s] writing top-level names to ../build/tugas3/tugas3.egg-info/top_level.txt
+[0.994s] writing manifest file '../build/tugas3/tugas3.egg-info/SOURCES.txt'
+[1.023s] reading manifest file '../build/tugas3/tugas3.egg-info/SOURCES.txt'
+[1.023s] writing manifest file '../build/tugas3/tugas3.egg-info/SOURCES.txt'
+[1.023s] running build
+[1.024s] running build_py
+[1.024s] creating /home/gusti/MagangBayu24-ROS2/tugas3/src/build/tugas3/build
+[1.024s] creating /home/gusti/MagangBayu24-ROS2/tugas3/src/build/tugas3/build/lib
+[1.024s] creating /home/gusti/MagangBayu24-ROS2/tugas3/src/build/tugas3/build/lib/tugas3
+[1.024s] copying tugas3/__init__.py -> /home/gusti/MagangBayu24-ROS2/tugas3/src/build/tugas3/build/lib/tugas3
+[1.024s] copying tugas3/publisher.py -> /home/gusti/MagangBayu24-ROS2/tugas3/src/build/tugas3/build/lib/tugas3
+[1.024s] running install
+[1.025s] running install_lib
+[1.025s] creating /home/gusti/MagangBayu24-ROS2/tugas3/src/install/tugas3/lib/python3.8/site-packages/tugas3
+[1.025s] copying /home/gusti/MagangBayu24-ROS2/tugas3/src/build/tugas3/build/lib/tugas3/__init__.py -> /home/gusti/MagangBayu24-ROS2/tugas3/src/install/tugas3/lib/python3.8/site-packages/tugas3
+[1.026s] copying /home/gusti/MagangBayu24-ROS2/tugas3/src/build/tugas3/build/lib/tugas3/publisher.py -> /home/gusti/MagangBayu24-ROS2/tugas3/src/install/tugas3/lib/python3.8/site-packages/tugas3
+[1.026s] byte-compiling /home/gusti/MagangBayu24-ROS2/tugas3/src/install/tugas3/lib/python3.8/site-packages/tugas3/__init__.py to __init__.cpython-38.pyc
+[1.027s] byte-compiling /home/gusti/MagangBayu24-ROS2/tugas3/src/install/tugas3/lib/python3.8/site-packages/tugas3/publisher.py to publisher.cpython-38.pyc
+[1.027s] running install_data
+[1.028s] creating /home/gusti/MagangBayu24-ROS2/tugas3/src/install/tugas3/share/ament_index
+[1.028s] creating /home/gusti/MagangBayu24-ROS2/tugas3/src/install/tugas3/share/ament_index/resource_index
+[1.028s] creating /home/gusti/MagangBayu24-ROS2/tugas3/src/install/tugas3/share/ament_index/resource_index/packages
+[1.028s] copying resource/tugas3 -> /home/gusti/MagangBayu24-ROS2/tugas3/src/install/tugas3/share/ament_index/resource_index/packages
+[1.028s] copying package.xml -> /home/gusti/MagangBayu24-ROS2/tugas3/src/install/tugas3/share/tugas3
+[1.028s] running install_egg_info
+[1.029s] Copying ../build/tugas3/tugas3.egg-info to /home/gusti/MagangBayu24-ROS2/tugas3/src/install/tugas3/lib/python3.8/site-packages/tugas3-0.0.0-py3.8.egg-info
+[1.030s] running install_scripts
+[1.045s] Installing turtlelaunch script to /home/gusti/MagangBayu24-ROS2/tugas3/src/install/tugas3/lib/tugas3
+[1.045s] writing list of installed files to '/home/gusti/MagangBayu24-ROS2/tugas3/src/build/tugas3/install.log'
+[1.064s] Invoked command in '/home/gusti/MagangBayu24-ROS2/tugas3/src/tugas3' returned '0': PYTHONPATH=/home/gusti/MagangBayu24-ROS2/tugas3/src/build/tugas3/prefix_override:/home/gusti/MagangBayu24-ROS2/tugas3/src/install/tugas3/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/tugas3 build --build-base /home/gusti/MagangBayu24-ROS2/tugas3/src/build/tugas3/build install --record /home/gusti/MagangBayu24-ROS2/tugas3/src/build/tugas3/install.log --install-scripts $base/lib/tugas3 --single-version-externally-managed
