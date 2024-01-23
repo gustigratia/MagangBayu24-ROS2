@@ -1,0 +1,45 @@
+[0.836s] Invoking command in '/home/gusti/MagangBayu24-ROS2/tugas2/src/tugas2': PYTHONPATH=/home/gusti/MagangBayu24-ROS2/tugas2/src/build/tugas2/prefix_override:/home/gusti/MagangBayu24-ROS2/tugas2/src/install/tugas2/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/tugas2 build --build-base /home/gusti/MagangBayu24-ROS2/tugas2/src/build/tugas2/build install --record /home/gusti/MagangBayu24-ROS2/tugas2/src/build/tugas2/install.log --install-scripts $base/lib/tugas2 --single-version-externally-managed
+[1.028s] running egg_info
+[1.028s] creating ../build/tugas2/tugas2.egg-info
+[1.028s] writing ../build/tugas2/tugas2.egg-info/PKG-INFO
+[1.029s] writing dependency_links to ../build/tugas2/tugas2.egg-info/dependency_links.txt
+[1.029s] writing entry points to ../build/tugas2/tugas2.egg-info/entry_points.txt
+[1.029s] writing requirements to ../build/tugas2/tugas2.egg-info/requires.txt
+[1.029s] writing top-level names to ../build/tugas2/tugas2.egg-info/top_level.txt
+[1.030s] writing manifest file '../build/tugas2/tugas2.egg-info/SOURCES.txt'
+[1.059s] reading manifest file '../build/tugas2/tugas2.egg-info/SOURCES.txt'
+[1.060s] writing manifest file '../build/tugas2/tugas2.egg-info/SOURCES.txt'
+[1.060s] running build
+[1.060s] running build_py
+[1.060s] creating /home/gusti/MagangBayu24-ROS2/tugas2/src/build/tugas2/build
+[1.061s] creating /home/gusti/MagangBayu24-ROS2/tugas2/src/build/tugas2/build/lib
+[1.061s] creating /home/gusti/MagangBayu24-ROS2/tugas2/src/build/tugas2/build/lib/tugas2
+[1.061s] copying tugas2/__init__.py -> /home/gusti/MagangBayu24-ROS2/tugas2/src/build/tugas2/build/lib/tugas2
+[1.061s] copying tugas2/publisher1.py -> /home/gusti/MagangBayu24-ROS2/tugas2/src/build/tugas2/build/lib/tugas2
+[1.061s] copying tugas2/publisher2.py -> /home/gusti/MagangBayu24-ROS2/tugas2/src/build/tugas2/build/lib/tugas2
+[1.061s] copying tugas2/subscriber.py -> /home/gusti/MagangBayu24-ROS2/tugas2/src/build/tugas2/build/lib/tugas2
+[1.061s] running install
+[1.061s] running install_lib
+[1.062s] creating /home/gusti/MagangBayu24-ROS2/tugas2/src/install/tugas2/lib/python3.8/site-packages/tugas2
+[1.062s] copying /home/gusti/MagangBayu24-ROS2/tugas2/src/build/tugas2/build/lib/tugas2/__init__.py -> /home/gusti/MagangBayu24-ROS2/tugas2/src/install/tugas2/lib/python3.8/site-packages/tugas2
+[1.062s] copying /home/gusti/MagangBayu24-ROS2/tugas2/src/build/tugas2/build/lib/tugas2/publisher1.py -> /home/gusti/MagangBayu24-ROS2/tugas2/src/install/tugas2/lib/python3.8/site-packages/tugas2
+[1.063s] copying /home/gusti/MagangBayu24-ROS2/tugas2/src/build/tugas2/build/lib/tugas2/publisher2.py -> /home/gusti/MagangBayu24-ROS2/tugas2/src/install/tugas2/lib/python3.8/site-packages/tugas2
+[1.063s] copying /home/gusti/MagangBayu24-ROS2/tugas2/src/build/tugas2/build/lib/tugas2/subscriber.py -> /home/gusti/MagangBayu24-ROS2/tugas2/src/install/tugas2/lib/python3.8/site-packages/tugas2
+[1.063s] byte-compiling /home/gusti/MagangBayu24-ROS2/tugas2/src/install/tugas2/lib/python3.8/site-packages/tugas2/__init__.py to __init__.cpython-38.pyc
+[1.064s] byte-compiling /home/gusti/MagangBayu24-ROS2/tugas2/src/install/tugas2/lib/python3.8/site-packages/tugas2/publisher1.py to publisher1.cpython-38.pyc
+[1.064s] byte-compiling /home/gusti/MagangBayu24-ROS2/tugas2/src/install/tugas2/lib/python3.8/site-packages/tugas2/publisher2.py to publisher2.cpython-38.pyc
+[1.065s] byte-compiling /home/gusti/MagangBayu24-ROS2/tugas2/src/install/tugas2/lib/python3.8/site-packages/tugas2/subscriber.py to subscriber.cpython-38.pyc
+[1.065s] running install_data
+[1.065s] creating /home/gusti/MagangBayu24-ROS2/tugas2/src/install/tugas2/share/ament_index
+[1.065s] creating /home/gusti/MagangBayu24-ROS2/tugas2/src/install/tugas2/share/ament_index/resource_index
+[1.065s] creating /home/gusti/MagangBayu24-ROS2/tugas2/src/install/tugas2/share/ament_index/resource_index/packages
+[1.066s] copying resource/tugas2 -> /home/gusti/MagangBayu24-ROS2/tugas2/src/install/tugas2/share/ament_index/resource_index/packages
+[1.066s] copying package.xml -> /home/gusti/MagangBayu24-ROS2/tugas2/src/install/tugas2/share/tugas2
+[1.066s] running install_egg_info
+[1.067s] Copying ../build/tugas2/tugas2.egg-info to /home/gusti/MagangBayu24-ROS2/tugas2/src/install/tugas2/lib/python3.8/site-packages/tugas2-0.0.0-py3.8.egg-info
+[1.068s] running install_scripts
+[1.083s] Installing listener script to /home/gusti/MagangBayu24-ROS2/tugas2/src/install/tugas2/lib/tugas2
+[1.083s] Installing talker1 script to /home/gusti/MagangBayu24-ROS2/tugas2/src/install/tugas2/lib/tugas2
+[1.083s] Installing talker2 script to /home/gusti/MagangBayu24-ROS2/tugas2/src/install/tugas2/lib/tugas2
+[1.083s] writing list of installed files to '/home/gusti/MagangBayu24-ROS2/tugas2/src/build/tugas2/install.log'
+[1.104s] Invoked command in '/home/gusti/MagangBayu24-ROS2/tugas2/src/tugas2' returned '0': PYTHONPATH=/home/gusti/MagangBayu24-ROS2/tugas2/src/build/tugas2/prefix_override:/home/gusti/MagangBayu24-ROS2/tugas2/src/install/tugas2/lib/python3.8/site-packages:${PYTHONPATH} /usr/bin/python3 setup.py egg_info --egg-base ../build/tugas2 build --build-base /home/gusti/MagangBayu24-ROS2/tugas2/src/build/tugas2/build install --record /home/gusti/MagangBayu24-ROS2/tugas2/src/build/tugas2/install.log --install-scripts $base/lib/tugas2 --single-version-externally-managed

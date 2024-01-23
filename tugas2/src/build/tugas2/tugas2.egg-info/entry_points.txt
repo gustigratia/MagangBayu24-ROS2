@@ -1,0 +1,5 @@
+[console_scripts]
+listener = tugas2.subscriber:main
+talker1 = tugas2.publisher1:main
+talker2 = tugas2.publisher2:main
+

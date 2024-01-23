@@ -1,0 +1,14 @@
+// generated from rosidl_adapter/resource/msg.idl.em
+// with input from custom_interface/msg/Message.msg
+// generated code does not contain a copyright notice
+
+
+module custom_interface {
+  module msg {
+    struct Message {
+      boolean data1;
+
+      boolean data2;
+    };
+  };
+};

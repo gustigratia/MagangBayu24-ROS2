@@ -1,0 +1,6 @@
+{
+  "package_name": "custom_interface",
+  "non_idl_tuples": [
+    "/home/gusti/MagangBayu24-ROS2/tugas2/src/custom_interface:msg/Message.msg"
+  ]
+}

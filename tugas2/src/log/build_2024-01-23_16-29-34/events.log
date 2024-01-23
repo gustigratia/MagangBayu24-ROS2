@@ -1,0 +1,4 @@
+[0.000000] (-) TimerEvent: {}
+[0.000491] (-) JobUnselected: {'identifier': 'interfaces_custom'}
+[0.000518] (-) JobUnselected: {'identifier': 'tugas2'}
+[0.000767] (-) EventReactorShutdown: {}
