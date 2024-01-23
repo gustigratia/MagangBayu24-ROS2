@@ -1,0 +1,4 @@
+source;share/num_interfaces/environment/ament_prefix_path.sh
+source;share/num_interfaces/environment/library_path.sh
+source;share/num_interfaces/environment/path.sh
+source;share/num_interfaces/environment/pythonpath.sh

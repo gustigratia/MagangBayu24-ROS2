@@ -1,0 +1,15 @@
+/home/gusti/MagangBayu24-ROS2/tugas1/src/install/interface/share/ament_index/resource_index/package_run_dependencies/interface
+/home/gusti/MagangBayu24-ROS2/tugas1/src/install/interface/share/ament_index/resource_index/parent_prefix_path/interface
+/home/gusti/MagangBayu24-ROS2/tugas1/src/install/interface/share/interface/environment/ament_prefix_path.sh
+/home/gusti/MagangBayu24-ROS2/tugas1/src/install/interface/share/interface/environment/ament_prefix_path.dsv
+/home/gusti/MagangBayu24-ROS2/tugas1/src/install/interface/share/interface/environment/path.sh
+/home/gusti/MagangBayu24-ROS2/tugas1/src/install/interface/share/interface/environment/path.dsv
+/home/gusti/MagangBayu24-ROS2/tugas1/src/install/interface/share/interface/local_setup.bash
+/home/gusti/MagangBayu24-ROS2/tugas1/src/install/interface/share/interface/local_setup.sh
+/home/gusti/MagangBayu24-ROS2/tugas1/src/install/interface/share/interface/local_setup.zsh
+/home/gusti/MagangBayu24-ROS2/tugas1/src/install/interface/share/interface/local_setup.dsv
+/home/gusti/MagangBayu24-ROS2/tugas1/src/install/interface/share/interface/package.dsv
+/home/gusti/MagangBayu24-ROS2/tugas1/src/install/interface/share/ament_index/resource_index/packages/interface
+/home/gusti/MagangBayu24-ROS2/tugas1/src/install/interface/share/interface/cmake/interfaceConfig.cmake
+/home/gusti/MagangBayu24-ROS2/tugas1/src/install/interface/share/interface/cmake/interfaceConfig-version.cmake
+/home/gusti/MagangBayu24-ROS2/tugas1/src/install/interface/share/interface/package.xml

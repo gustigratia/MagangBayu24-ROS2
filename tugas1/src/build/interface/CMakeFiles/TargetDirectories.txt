@@ -1,0 +1,9 @@
+/home/gusti/MagangBayu24-ROS2/tugas1/src/build/interface/CMakeFiles/install/strip.dir
+/home/gusti/MagangBayu24-ROS2/tugas1/src/build/interface/CMakeFiles/install/local.dir
+/home/gusti/MagangBayu24-ROS2/tugas1/src/build/interface/CMakeFiles/install.dir
+/home/gusti/MagangBayu24-ROS2/tugas1/src/build/interface/CMakeFiles/list_install_components.dir
+/home/gusti/MagangBayu24-ROS2/tugas1/src/build/interface/CMakeFiles/rebuild_cache.dir
+/home/gusti/MagangBayu24-ROS2/tugas1/src/build/interface/CMakeFiles/edit_cache.dir
+/home/gusti/MagangBayu24-ROS2/tugas1/src/build/interface/CMakeFiles/test.dir
+/home/gusti/MagangBayu24-ROS2/tugas1/src/build/interface/CMakeFiles/interface_uninstall.dir
+/home/gusti/MagangBayu24-ROS2/tugas1/src/build/interface/CMakeFiles/uninstall.dir

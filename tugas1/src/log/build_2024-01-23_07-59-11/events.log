@@ -1,0 +1,89 @@
+[0.000000] (-) TimerEvent: {}
+[0.000274] (-) JobUnselected: {'identifier': 'py_pubsub'}
+[0.000328] (num_interfaces) JobQueued: {'identifier': 'num_interfaces', 'dependencies': OrderedDict()}
+[0.000363] (num_interfaces) JobStarted: {'identifier': 'num_interfaces'}
+[0.099176] (-) TimerEvent: {}
+[0.140520] (num_interfaces) JobProgress: {'identifier': 'num_interfaces', 'progress': 'cmake'}
+[0.141186] (num_interfaces) Command: {'cmd': ['/usr/bin/cmake', '/home/gusti/MagangBayu24-ROS2/tugas1/src/num_interfaces', '-DCMAKE_INSTALL_PREFIX=/home/gusti/MagangBayu24-ROS2/tugas1/src/install/num_interfaces'], 'cwd': '/home/gusti/MagangBayu24-ROS2/tugas1/src/build/num_interfaces', 'env': OrderedDict([('GJS_DEBUG_TOPICS', 'JS ERROR;JS LOG'), ('LESSOPEN', '| /usr/bin/lesspipe %s'), ('USER', 'gusti'), ('LC_TIME', 'id_ID.UTF-8'), ('GIO_MODULE_DIR', '/home/gusti/snap/code/common/.cache/gio-modules'), ('SSH_AGENT_PID', '1700'), ('XDG_SESSION_TYPE', 'x11'), ('GIT_ASKPASS', '/snap/code/149/usr/share/code/resources/app/extensions/git/dist/askpass.sh'), ('GTK_EXE_PREFIX_VSCODE_SNAP_ORIG', ''), ('GDK_BACKEND_VSCODE_SNAP_ORIG', ''), ('SHLVL', '1'), ('LD_LIBRARY_PATH', '/opt/ros/foxy/opt/yaml_cpp_vendor/lib:/opt/ros/foxy/opt/rviz_ogre_vendor/lib:/opt/ros/foxy/lib/x86_64-linux-gnu:/opt/ros/foxy/lib'), ('HOME', '/home/gusti'), ('CHROME_DESKTOP', 'code-url-handler.desktop'), ('LOCPATH_VSCODE_SNAP_ORIG', ''), ('OLDPWD', '/home/gusti/MagangBayu24-ROS2/tugas1/src/interfaces'), ('TERM_PROGRAM_VERSION', '1.85.2'), ('DESKTOP_SESSION', 'ubuntu'), ('GTK_PATH', '/snap/code/149/usr/lib/x86_64-linux-gnu/gtk-3.0'), ('GTK_IM_MODULE_FILE', '/home/gusti/snap/code/common/.cache/immodules/immodules.cache'), ('GIO_LAUNCHED_DESKTOP_FILE', '/var/lib/snapd/desktop/applications/code_code.desktop'), ('ROS_PYTHON_VERSION', '3'), ('GNOME_SHELL_SESSION_MODE', 'ubuntu'), ('GTK_MODULES', 'gail:atk-bridge'), ('GSETTINGS_SCHEMA_DIR_VSCODE_SNAP_ORIG', ''), ('VSCODE_GIT_ASKPASS_MAIN', '/snap/code/149/usr/share/code/resources/app/extensions/git/dist/askpass-main.js'), ('LC_MONETARY', 'id_ID.UTF-8'), ('VSCODE_GIT_ASKPASS_NODE', '/snap/code/149/usr/share/code/code'), ('MANAGERPID', '1508'), ('DBUS_SESSION_BUS_ADDRESS', 'unix:path=/run/user/1000/bus'), ('COLORTERM', 'truecolor'), ('GIO_LAUNCHED_DESKTOP_FILE_PID', '3314'), ('IM_CONFIG_PHASE', '1'), ('ROS_DISTRO', 'foxy'), ('LOGNAME', 'gusti'), ('JOURNAL_STREAM', '8:43743'), ('_', '/usr/bin/colcon'), ('ROS_VERSION', '2'), ('XDG_CONFIG_DIRS_VSCODE_SNAP_ORIG', '/etc/xdg/xdg-ubuntu:/etc/xdg'), ('XDG_SESSION_CLASS', 'user'), ('XDG_DATA_DIRS_VSCODE_SNAP_ORIG', '/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('USERNAME', 'gusti'), ('TERM', 'xterm-256color'), ('GNOME_DESKTOP_SESSION_ID', 'this-is-deprecated'), ('ROS_LOCALHOST_ONLY', '0'), ('WINDOWPATH', '2'), ('PATH', '/opt/ros/foxy/bin:/usr/local/sbin:/usr/local/bin:/usr/sbin:/usr/bin:/sbin:/bin:/usr/games:/usr/local/games:/snap/bin'), ('SESSION_MANAGER', 'local/gusti-ubuntu:@/tmp/.ICE-unix/1744,unix/gusti-ubuntu:/tmp/.ICE-unix/1744'), ('GTK_EXE_PREFIX', '/snap/code/149/usr'), ('INVOCATION_ID', '8827ecc194e945d5afb731101bad6e29'), ('XDG_MENU_PREFIX', 'gnome-'), ('LC_ADDRESS', 'id_ID.UTF-8'), ('BAMF_DESKTOP_FILE_HINT', '/var/lib/snapd/desktop/applications/code_code.desktop'), ('XDG_RUNTIME_DIR', '/run/user/1000'), ('GDK_BACKEND', 'x11'), ('DISPLAY', ':0'), ('LOCPATH', '/snap/code/149/usr/lib/locale'), ('LANG', 'en_US.UTF-8'), ('XDG_CURRENT_DESKTOP', 'Unity'), ('LC_TELEPHONE', 'id_ID.UTF-8'), ('GIO_MODULE_DIR_VSCODE_SNAP_ORIG', ''), ('XMODIFIERS', '@im=ibus'), ('XDG_SESSION_DESKTOP', 'ubuntu'), ('XAUTHORITY', '/run/user/1000/gdm/Xauthority'), ('LS_COLORS', 'rs=0:di=01;34:ln=01;36:mh=00:pi=40;33:so=01;35:do=01;35:bd=40;33;01:cd=40;33;01:or=40;31;01:mi=00:su=37;41:sg=30;43:ca=30;41:tw=30;42:ow=34;42:st=37;44:ex=01;32:*.tar=01;31:*.tgz=01;31:*.arc=01;31:*.arj=01;31:*.taz=01;31:*.lha=01;31:*.lz4=01;31:*.lzh=01;31:*.lzma=01;31:*.tlz=01;31:*.txz=01;31:*.tzo=01;31:*.t7z=01;31:*.zip=01;31:*.z=01;31:*.dz=01;31:*.gz=01;31:*.lrz=01;31:*.lz=01;31:*.lzo=01;31:*.xz=01;31:*.zst=01;31:*.tzst=01;31:*.bz2=01;31:*.bz=01;31:*.tbz=01;31:*.tbz2=01;31:*.tz=01;31:*.deb=01;31:*.rpm=01;31:*.jar=01;31:*.war=01;31:*.ear=01;31:*.sar=01;31:*.rar=01;31:*.alz=01;31:*.ace=01;31:*.zoo=01;31:*.cpio=01;31:*.7z=01;31:*.rz=01;31:*.cab=01;31:*.wim=01;31:*.swm=01;31:*.dwm=01;31:*.esd=01;31:*.jpg=01;35:*.jpeg=01;35:*.mjpg=01;35:*.mjpeg=01;35:*.gif=01;35:*.bmp=01;35:*.pbm=01;35:*.pgm=01;35:*.ppm=01;35:*.tga=01;35:*.xbm=01;35:*.xpm=01;35:*.tif=01;35:*.tiff=01;35:*.png=01;35:*.svg=01;35:*.svgz=01;35:*.mng=01;35:*.pcx=01;35:*.mov=01;35:*.mpg=01;35:*.mpeg=01;35:*.m2v=01;35:*.mkv=01;35:*.webm=01;35:*.ogm=01;35:*.mp4=01;35:*.m4v=01;35:*.mp4v=01;35:*.vob=01;35:*.qt=01;35:*.nuv=01;35:*.wmv=01;35:*.asf=01;35:*.rm=01;35:*.rmvb=01;35:*.flc=01;35:*.avi=01;35:*.fli=01;35:*.flv=01;35:*.gl=01;35:*.dl=01;35:*.xcf=01;35:*.xwd=01;35:*.yuv=01;35:*.cgm=01;35:*.emf=01;35:*.ogv=01;35:*.ogx=01;35:*.aac=00;36:*.au=00;36:*.flac=00;36:*.m4a=00;36:*.mid=00;36:*.midi=00;36:*.mka=00;36:*.mp3=00;36:*.mpc=00;36:*.ogg=00;36:*.ra=00;36:*.wav=00;36:*.oga=00;36:*.opus=00;36:*.spx=00;36:*.xspf=00;36:'), ('VSCODE_GIT_IPC_HANDLE', '/run/user/1000/vscode-git-bb8d1a6ac9.sock'), ('TERM_PROGRAM', 'vscode'), ('SSH_AUTH_SOCK', '/run/user/1000/keyring/ssh'), ('GSETTINGS_SCHEMA_DIR', '/home/gusti/snap/code/149/.local/share/glib-2.0/schemas'), ('AMENT_PREFIX_PATH', '/opt/ros/foxy'), ('ORIGINAL_XDG_CURRENT_DESKTOP', 'ubuntu:GNOME'), ('SHELL', '/bin/bash'), ('LC_NAME', 'id_ID.UTF-8'), ('QT_ACCESSIBILITY', '1'), ('GDMSESSION', 'ubuntu'), ('LESSCLOSE', '/usr/bin/lesspipe %s %s'), ('GTK_PATH_VSCODE_SNAP_ORIG', ''), ('GTK_IM_MODULE_FILE_VSCODE_SNAP_ORIG', ''), ('LC_MEASUREMENT', 'id_ID.UTF-8'), ('GPG_AGENT_INFO', '/run/user/1000/gnupg/S.gpg-agent:0:1'), ('GJS_DEBUG_OUTPUT', 'stderr'), ('LC_IDENTIFICATION', 'id_ID.UTF-8'), ('VSCODE_GIT_ASKPASS_EXTRA_ARGS', '--ms-enable-electron-run-as-node'), ('QT_IM_MODULE', 'ibus'), ('PWD', '/home/gusti/MagangBayu24-ROS2/tugas1/src/build/num_interfaces'), ('LC_ALL', 'en_US.UTF-8'), ('XDG_CONFIG_DIRS', '/etc/xdg/xdg-ubuntu:/etc/xdg'), ('XDG_DATA_DIRS', '/home/gusti/snap/code/149/.local/share:/home/gusti/snap/code/149:/snap/code/149/usr/share:/usr/share/ubuntu:/usr/local/share/:/usr/share/:/var/lib/snapd/desktop'), ('PYTHONPATH', '/opt/ros/foxy/lib/python3.8/site-packages'), ('LC_NUMERIC', 'id_ID.UTF-8'), ('LC_PAPER', 'id_ID.UTF-8'), ('COLCON', '1'), ('CMAKE_PREFIX_PATH', '/opt/ros/foxy')]), 'shell': False}
+[0.194240] (num_interfaces) StdoutLine: {'line': b'-- The C compiler identification is GNU 9.4.0\n'}
+[0.199289] (-) TimerEvent: {}
+[0.244349] (num_interfaces) StdoutLine: {'line': b'-- The CXX compiler identification is GNU 9.4.0\n'}
+[0.249198] (num_interfaces) StdoutLine: {'line': b'-- Check for working C compiler: /usr/bin/cc\n'}
+[0.299430] (-) TimerEvent: {}
+[0.310748] (num_interfaces) StdoutLine: {'line': b'-- Check for working C compiler: /usr/bin/cc -- works\n'}
+[0.312059] (num_interfaces) StdoutLine: {'line': b'-- Detecting C compiler ABI info\n'}
+[0.375852] (num_interfaces) StdoutLine: {'line': b'-- Detecting C compiler ABI info - done\n'}
+[0.387452] (num_interfaces) StdoutLine: {'line': b'-- Detecting C compile features\n'}
+[0.387759] (num_interfaces) StdoutLine: {'line': b'-- Detecting C compile features - done\n'}
+[0.390122] (num_interfaces) StdoutLine: {'line': b'-- Check for working CXX compiler: /usr/bin/c++\n'}
+[0.399556] (-) TimerEvent: {}
+[0.460916] (num_interfaces) StdoutLine: {'line': b'-- Check for working CXX compiler: /usr/bin/c++ -- works\n'}
+[0.462011] (num_interfaces) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info\n'}
+[0.499693] (-) TimerEvent: {}
+[0.533547] (num_interfaces) StdoutLine: {'line': b'-- Detecting CXX compiler ABI info - done\n'}
+[0.545978] (num_interfaces) StdoutLine: {'line': b'-- Detecting CXX compile features\n'}
+[0.546569] (num_interfaces) StdoutLine: {'line': b'-- Detecting CXX compile features - done\n'}
+[0.548383] (num_interfaces) StdoutLine: {'line': b'-- Found ament_cmake: 0.9.12 (/opt/ros/foxy/share/ament_cmake/cmake)\n'}
+[0.570774] (num_interfaces) StdoutLine: {'line': b'-- Found PythonInterp: /usr/bin/python3 (found suitable version "3.8.10", minimum required is "3") \n'}
+[0.571080] (num_interfaces) StdoutLine: {'line': b'-- Using PYTHON_EXECUTABLE: /usr/bin/python3\n'}
+[0.599811] (-) TimerEvent: {}
+[0.700055] (-) TimerEvent: {}
+[0.758247] (num_interfaces) StdoutLine: {'line': b'-- Found rosidl_default_generators: 1.0.1 (/opt/ros/foxy/share/rosidl_default_generators/cmake)\n'}
+[0.760838] (num_interfaces) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_c: rosidl_typesupport_fastrtps_c;rosidl_typesupport_introspection_c\n'}
+[0.766233] (num_interfaces) StdoutLine: {'line': b'-- Found rosidl_adapter: 1.3.1 (/opt/ros/foxy/share/rosidl_adapter/cmake)\n'}
+[0.800188] (-) TimerEvent: {}
+[0.842761] (num_interfaces) StdoutLine: {'line': b'-- Found OpenSSL: /usr/lib/x86_64-linux-gnu/libcrypto.so (found version "1.1.1f")  \n'}
+[0.869201] (num_interfaces) StdoutLine: {'line': b'-- Found FastRTPS: /opt/ros/foxy/include  \n'}
+[0.900316] (-) TimerEvent: {}
+[0.937104] (num_interfaces) StdoutLine: {'line': b'-- Using all available rosidl_typesupport_cpp: rosidl_typesupport_fastrtps_cpp;rosidl_typesupport_introspection_cpp\n'}
+[0.977809] (num_interfaces) StdoutLine: {'line': b'-- Found PythonInterp: /usr/bin/python3 (found version "3.8.10") \n'}
+[1.000449] (-) TimerEvent: {}
+[1.100731] (-) TimerEvent: {}
+[1.146129] (num_interfaces) StderrLine: {'line': b'CMake Error at /opt/ros/foxy/share/rosidl_adapter/cmake/rosidl_adapt_interfaces.cmake:60 (message):\n'}
+[1.146312] (num_interfaces) StderrLine: {'line': b'  execute_process(/usr/bin/python3 -m rosidl_adapter --package-name\n'}
+[1.146391] (num_interfaces) StderrLine: {'line': b'  num_interfaces --arguments-file\n'}
+[1.146461] (num_interfaces) StderrLine: {'line': b'  /home/gusti/MagangBayu24-ROS2/tugas1/src/build/num_interfaces/rosidl_adapter__arguments__num_interfaces.json\n'}
+[1.146528] (num_interfaces) StderrLine: {'line': b'  --output-dir\n'}
+[1.146593] (num_interfaces) StderrLine: {'line': b'  /home/gusti/MagangBayu24-ROS2/tugas1/src/build/num_interfaces/rosidl_adapter/num_interfaces\n'}
+[1.146659] (num_interfaces) StderrLine: {'line': b'  --output-file\n'}
+[1.146721] (num_interfaces) StderrLine: {'line': b'  /home/gusti/MagangBayu24-ROS2/tugas1/src/build/num_interfaces/rosidl_adapter/num_interfaces.idls)\n'}
+[1.146784] (num_interfaces) StderrLine: {'line': b'  returned error code 1:\n'}
+[1.146845] (num_interfaces) StderrLine: {'line': b'\n'}
+[1.146908] (num_interfaces) StderrLine: {'line': b"  Error processing 'int 64 num1' of 'num_interfaces/Num': ''int' is an\n"}
+[1.146972] (num_interfaces) StderrLine: {'line': b"  invalid message name.  It should have the pattern '^[A-Z][A-Za-z0-9]*$''\n"}
+[1.147035] (num_interfaces) StderrLine: {'line': b'\n'}
+[1.147098] (num_interfaces) StderrLine: {'line': b'  Traceback (most recent call last):\n'}
+[1.147162] (num_interfaces) StderrLine: {'line': b'\n'}
+[1.147224] (num_interfaces) StderrLine: {'line': b'    File "/usr/lib/python3.8/runpy.py", line 194, in _run_module_as_main\n'}
+[1.147289] (num_interfaces) StderrLine: {'line': b'      return _run_code(code, main_globals, None,\n'}
+[1.147351] (num_interfaces) StderrLine: {'line': b'    File "/usr/lib/python3.8/runpy.py", line 87, in _run_code\n'}
+[1.147414] (num_interfaces) StderrLine: {'line': b'      exec(code, run_globals)\n'}
+[1.147475] (num_interfaces) StderrLine: {'line': b'    File "/opt/ros/foxy/lib/python3.8/site-packages/rosidl_adapter/__main__.py", line 19, in <module>\n'}
+[1.147538] (num_interfaces) StderrLine: {'line': b'      sys.exit(main())\n'}
+[1.147600] (num_interfaces) StderrLine: {'line': b'    File "/opt/ros/foxy/lib/python3.8/site-packages/rosidl_adapter/main.py", line 53, in main\n'}
+[1.147664] (num_interfaces) StderrLine: {'line': b'      abs_idl_file = convert_to_idl(\n'}
+[1.147725] (num_interfaces) StderrLine: {'line': b'    File "/opt/ros/foxy/lib/python3.8/site-packages/rosidl_adapter/__init__.py", line 19, in convert_to_idl\n'}
+[1.147788] (num_interfaces) StderrLine: {'line': b'      return convert_msg_to_idl(\n'}
+[1.147876] (num_interfaces) StderrLine: {'line': b'    File "/opt/ros/foxy/lib/python3.8/site-packages/rosidl_adapter/msg/__init__.py", line 28, in convert_msg_to_idl\n'}
+[1.147991] (num_interfaces) StderrLine: {'line': b'      msg = parse_message_string(package_name, input_file.stem, content)\n'}
+[1.148055] (num_interfaces) StderrLine: {'line': b'    File "/opt/ros/foxy/lib/python3.8/site-packages/rosidl_adapter/parser.py", line 516, in parse_message_string\n'}
+[1.148118] (num_interfaces) StderrLine: {'line': b'      Type(type_string, context_package_name=pkg_name),\n'}
+[1.148181] (num_interfaces) StderrLine: {'line': b'    File "/opt/ros/foxy/lib/python3.8/site-packages/rosidl_adapter/parser.py", line 276, in __init__\n'}
+[1.148243] (num_interfaces) StderrLine: {'line': b'      super(Type, self).__init__(\n'}
+[1.148305] (num_interfaces) StderrLine: {'line': b'    File "/opt/ros/foxy/lib/python3.8/site-packages/rosidl_adapter/parser.py", line 204, in __init__\n'}
+[1.148373] (num_interfaces) StderrLine: {'line': b'      raise InvalidResourceName(\n'}
+[1.148436] (num_interfaces) StderrLine: {'line': b'\n'}
+[1.148498] (num_interfaces) StderrLine: {'line': b"  rosidl_adapter.parser.InvalidResourceName: 'int' is an invalid message\n"}
+[1.148559] (num_interfaces) StderrLine: {'line': b"  name.  It should have the pattern '^[A-Z][A-Za-z0-9]*$'\n"}
+[1.148621] (num_interfaces) StderrLine: {'line': b'\n'}
+[1.148682] (num_interfaces) StderrLine: {'line': b'Call Stack (most recent call first):\n'}
+[1.148743] (num_interfaces) StderrLine: {'line': b'  /opt/ros/foxy/share/rosidl_cmake/cmake/rosidl_generate_interfaces.cmake:130 (rosidl_adapt_interfaces)\n'}
+[1.148806] (num_interfaces) StderrLine: {'line': b'  CMakeLists.txt:25 (rosidl_generate_interfaces)\n'}
+[1.148869] (num_interfaces) StderrLine: {'line': b'\n'}
+[1.148931] (num_interfaces) StderrLine: {'line': b'\n'}
+[1.149004] (num_interfaces) StdoutLine: {'line': b'-- Configuring incomplete, errors occurred!\n'}
+[1.149079] (num_interfaces) StdoutLine: {'line': b'See also "/home/gusti/MagangBayu24-ROS2/tugas1/src/build/num_interfaces/CMakeFiles/CMakeOutput.log".\n'}
+[1.156601] (num_interfaces) CommandEnded: {'returncode': 1}
+[1.200906] (-) TimerEvent: {}
+[1.278811] (num_interfaces) JobEnded: {'identifier': 'num_interfaces', 'rc': 1}
+[1.289480] (-) EventReactorShutdown: {}
