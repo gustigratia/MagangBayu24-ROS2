@@ -15,7 +15,7 @@ setup(
     zip_safe=True,
     maintainer='gusti',
     maintainer_email='gustigratia706@gmail.com',
-    description='TODO: Package description',
+    description='Publish Random Math Opr',
     license='Apache License 2.0',
     tests_require=['pytest'],
     entry_points={
