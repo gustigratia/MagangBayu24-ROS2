@@ -1,2 +1,0 @@
-Invoking command in '/home/gusti/MagangBayu24-ROS2/tugas1/src/build/interfaces': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/gusti/MagangBayu24-ROS2/tugas1/src/interfaces -DCMAKE_INSTALL_PREFIX=/home/gusti/MagangBayu24-ROS2/tugas1/src/install/interfaces
-Invoked command in '/home/gusti/MagangBayu24-ROS2/tugas1/src/build/interfaces' returned '1': CMAKE_PREFIX_PATH=/opt/ros/foxy /usr/bin/cmake /home/gusti/MagangBayu24-ROS2/tugas1/src/interfaces -DCMAKE_INSTALL_PREFIX=/home/gusti/MagangBayu24-ROS2/tugas1/src/install/interfaces
